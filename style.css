@@ -1,0 +1,45 @@
+img, h1{
+    float: left;
+}
+img{
+    padding: 0;
+}
+h1 {
+    padding-left: 200px;
+padding-top: 70px;
+}
+.clear {
+    clear: both;
+}
+
+.myClass input{
+    position : center;
+}
+nav {
+    background-color: grey;
+    border: 1px solid black;
+    padding: 1%;
+}
+a{
+    padding-right: 100px;
+    text-decoration:none;
+}
+a:link {
+    color:white;
+    
+}
+
+/* visited link */
+
+
+#a{
+    color: green;
+}
+.fixed-width {
+         width:1150px;
+         margin: 0 auto;
+ }
+ form, footer {
+     padding : 1%;
+ }
+ 
